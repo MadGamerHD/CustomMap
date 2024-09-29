@@ -1,4 +1,4 @@
-**Project Title: CustomMap - Easy Setup for Map Creation in GTA San Andreas**
+**CustomMap - Easy Setup for Map Creation in GTA San Andreas**
 
 **Description:**
 
@@ -12,4 +12,8 @@ CustomMap is a friendly, ready-to-use folder designed to make creating your own 
 - **FramerateVigilante.SA:** Enjoy a smoother gameplay experience with FramerateVigilante, ensuring your designs look great in action.
 - **SilentPatchSA Included:** Keep your game stable and functional with SilentPatchSA, which fixes common issues with ease.
 
-Creating your own maps has never been easier! With CustomMap, you’ll be crafting your unique San Andreas adventures in no time. Let your creativity shine!
+**Getting Started:**
+
+To get started, simply drag and drop the CustomMap folder into your Modloader. It’s that easy!
+
+Creating your own maps has never been simpler! With CustomMap, you’ll be crafting your unique San Andreas adventures in no time. Let your creativity shine!
